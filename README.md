@@ -1,3 +1,4 @@
+```bash
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=21&pause=1500&color=green&center=true&vCenter=true&width=500&lines=An%C3%A1lise+de+Vendas+do+Varejo;Utilizando+linguagem+Python." alt="Typing SVG" />
 </p>
@@ -44,3 +45,4 @@ Utilizei o Matplotlib e o Seaborn para criar:
 Sendo iniciante na área de análise de dados, esse projeto me ajudou a praticar desde a estruturação de dados em banco de dados até a geração de visualizações significativas.
 
 🫱🏾‍🫲🏻Este projeto faz parte do meu portfólio, onde estou mostrando meu processo de evolução. Portanto, fique à vontade para sugerir melhorias e enviar feedbacks!
+```
