@@ -18,20 +18,20 @@ Este projeto foi desenvolvido como parte dos meus estudos para a disciplina de L
 
 
 ## 📑Etapas do Projeto
-1. Conexão com o banco de dados SQLite
+1. Conexão com o banco de dados SQLite:
 Criei uma base chamada dados_vendas.db e inseri registros simulando vendas ao longo do ano de 2023. 
 
-2. Criação da Tabela e Inserção dos Dados
+2. Criação da Tabela e Inserção dos Dados:
 Utilizei o módulo sqlite3 para criar a tabela vendas1 e inseri os dados manualmente.
 
-3. Leitura dos dados com Pandas
+3. Leitura dos dados com Pandas:
 Carreguei os dados diretamente do banco para um DataFrame.
 
-4. Análise Exploratória de Dados (EDA)
+4. Análise Exploratória de Dados (EDA):
 -Verifiquei o total de vendas por categoria.
 -Analisei a soma e média mensal das vendas.
 
-5. Visualização de Dados
+5. Visualização de Dados:
 Utilizei o Matplotlib e o Seaborn para criar:
 -Gráfico de barras com o total de vendas por categoria.
 -Gráfico de linha com a evolução mensal das vendas.
