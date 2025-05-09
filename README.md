@@ -3,7 +3,7 @@
 </p>
 
 ## 💭Uma breve descrição sobre o objetivo desse projeto 
-Este projeto foi desenvolvido como parte dos meus estudos para a disciplina . O objetivo é explorar e analisar dados de vendas de uma empresa fictícia de varejo, utilizando ferramentas como SQLite, Pandas, Matplotlib e Seaborn. A proposta simula um cenário real, onde extraímos dados de um banco de dados e buscamos identificar padrões que possam gerar insights para tomada de decisões.
+Este projeto foi desenvolvido como parte dos meus estudos para a disciplina de Linguagem de Programação. O objetivo é explorar e analisar dados de vendas de uma empresa fictícia de varejo, utilizando ferramentas como SQLite, Pandas, Matplotlib e Seaborn. A proposta simula um cenário real, onde extraímos dados de um banco de dados e buscamos identificar padrões que possam gerar insights para tomada de decisões.
 
 ## ⚙️Ferramentas 
 ![Python](https://img.shields.io/badge/python-fff?style=for-the-badge&logo=python&logoColor=ffdd54) 
